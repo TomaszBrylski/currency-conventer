@@ -13,7 +13,7 @@ The converted amount in foreign currency will appear below, as on the gif.
 
 Link below:
 
-https://tomaszbrylski.github.io/currency-conventer/
+https://tomaszbrylski.github.io/currency-converter/
 
 ### Languages / Technologies
 - HTML
