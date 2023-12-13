@@ -14,3 +14,10 @@ The converted amount in foreign currency will appear below, as on the gif.
 Link below:
 
 https://tomaszbrylski.github.io/currency-conventer/
+
+### Languages / Technologies
+- HTML
+- CSS
+- JavaScript
+- BEM
+- ScreenToGit
